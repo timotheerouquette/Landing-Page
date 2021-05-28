@@ -1,0 +1,14 @@
+.btn {
+  font-family: Impact;
+  background-color: lightblue;
+  color: darkblue;
+  border-radius: 5rem;
+  padding: 12px;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: darkblue;
+  color: lightblue;
+  transition: 0.3s;
+}
